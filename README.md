@@ -1,0 +1,2 @@
+# NoMasBanca
+Startup Weekend project 
